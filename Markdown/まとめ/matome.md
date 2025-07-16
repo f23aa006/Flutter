@@ -1,9 +1,9 @@
-### $ flutter doctor  
+>### $ flutter doctor  
 Flutter開発に必要なツール類をチェックし、  
 開発の準備が整っているか判定してくれるコマンド
 
 
-### $ flutter create プロジェクト名  
+>### $ flutter create プロジェクト名  
 Flutterプロジェクトを作成するコマンド
 
 ---
