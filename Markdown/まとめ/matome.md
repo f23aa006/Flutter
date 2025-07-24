@@ -59,7 +59,8 @@ Radio,Dropdown : 複数の要素から一つだけ選ばせたい時
 Slider : 特定の値の範囲で数値を入力させたい時
 ___
 >Null許容　:　値にNULLが代入されるのを許可すること
-非NULL保証　:　値がNULLでないことを保証すること
+>>
+>非NULL保証　:　値がNULLでないことを保証すること
 ___
 showDialog : 一時的にdialogを表示するメソッド
 
